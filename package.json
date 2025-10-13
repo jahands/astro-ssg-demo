@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "astro": "^5.8.0",
-    "wrangler": "4.42.2"
+    "wrangler": "npm:@jahands/wrangler@4.42.2-bugfix2"
   }
 }
