@@ -1,0 +1,8 @@
+{
+  "name": "astro-ssg-demo",
+  "compatibility_date": "2025-06-05",
+  "preview_urls": true,
+  "assets": {
+    "directory": "public"
+  }
+}
