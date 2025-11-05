@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "astro": "^5.8.0",
-    "wrangler": "npm:@jahands/wrangler@4.45.3-pr11148-02"
+    "wrangler": "4.45.4"
   }
 }
